@@ -9,7 +9,7 @@ Para ejecutar el proyecto siga los siguientes pasos:
 
 ## Descripcion de la API
 
-...escriba aqui
+Esta nos devuelve una informacion ramdon relacionado al numero que le pasemos
 
 ---
 
